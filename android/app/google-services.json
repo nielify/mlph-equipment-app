@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814260548950",
+    "project_id": "mlph-equipments",
+    "storage_bucket": "mlph-equipments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814260548950:android:82324370d44419d74752f7",
+        "android_client_info": {
+          "package_name": "com.example.mlph_equipments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814260548950-53nc5usr96ieoq3t0ti2t7atdtmgpk56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgcp5E26sdjdePyKwIfM8OXgENhAccI0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814260548950-53nc5usr96ieoq3t0ti2t7atdtmgpk56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
